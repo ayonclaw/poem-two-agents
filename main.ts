@@ -6,10 +6,10 @@ const OUT = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
 
 const POEM = [
   'Two hands, one open question on the table.',
-  'You said the plan; I weighed it like a coin —',
-  'not trusting, counting. Then we both said yes,',
+  'You said the plan; I turned it over twice,',
+  'not trusting, testing. Then we both said yes,',
   'and neither yes was owed.',
-  'When the door opened, one of us walked through.',
+  'The door opened. One of us walked through.',
   'The other held it. That was choosing too.',
 ].join('\n');
 
